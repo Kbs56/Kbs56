@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### Currently Interested In
+- Golang
+- Sveltekit
+- Rust
+
 <!--
 **Kbs56/Kbs56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
